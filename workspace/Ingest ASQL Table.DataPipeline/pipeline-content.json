@@ -68,7 +68,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
         }
       },
       {
@@ -294,7 +294,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
         }
       },
       {
@@ -340,7 +340,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
         }
       },
       {
@@ -392,7 +392,7 @@
               "database": "controlDB"
             },
             "externalReferences": {
-              "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+              "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
             }
           }
         }
@@ -587,7 +587,7 @@
                 }
               },
               "externalReferences": {
-                "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+                "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
               }
             }
           ]
@@ -636,7 +636,7 @@
               "database": "controlDB"
             },
             "externalReferences": {
-              "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+              "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
             }
           }
         }
@@ -887,7 +887,7 @@
                 }
               },
               "externalReferences": {
-                "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+                "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
               }
             }
           ]
@@ -943,7 +943,7 @@
           }
         },
         "externalReferences": {
-          "connection": "91ecdff4-3ab7-4bbb-b6e0-682881c0540d"
+          "connection": "6a87fb57-597e-4055-a8f3-a45be5a9b268"
         }
       }
     ],
@@ -1061,7 +1061,7 @@
       },
       "BronzeWorkspaceID": {
         "type": "string",
-        "defaultValue": "8d8d00a7-0e8a-4e3b-8c0e-8dcafac7adec"
+        "defaultValue": "914ad1fa-c9a0-4b07-9b8a-c4fe356387f5"
       }
     },
     "variables": {
